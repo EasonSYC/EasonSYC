@@ -15,9 +15,12 @@ My name is EasonSYC, and I'm currently a high school student. My hobby is scienc
 
 ### 2. My Github status
 ![EasonSYC's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonSYC&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=covid-19-visuallization&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonSYC&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonSYC&l&theme=tokyonight)
 
-### 3. We are serious programmers.
+### 3. Some of my Projects
+
+![Covid-19](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=covid-19-visuallization&theme=onedark)]
+
+### 4. We are serious programmers.
 <!-- ![1](https://user-images.githubusercontent.com/68184967/159121666-60aac23f-83c1-45c5-b9af-6adeb89b7d4e.jpg) -->
 ![2](https://user-images.githubusercontent.com/68184967/159121877-7fbfcf93-59ba-4a58-8492-7b4203202a82.gif)
