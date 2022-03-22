@@ -33,7 +33,7 @@ My name is EasonSYC, and I'm currently a high school student. My hobby is scienc
 
 
 
-#### Studying in School
+#### Studying at School
 
 [![Maths Error](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=Maths_Error)](https://github.com/EasonSYC/Maths_Error)
 [![English Error](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=English_Error)](https://github.com/EasonSYC/English_Error)
