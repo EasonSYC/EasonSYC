@@ -22,6 +22,7 @@ My name is EasonSYC, and I'm currently a high school student. My hobby is scienc
 ### 3. Some of my Projects
 
 [![Covid-19 Visuallization](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=covid-19-visuallization)](https://github.com/EasonSYC/covid-19-visuallization)
+[![sesticket](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=sesticket)](https://github.com/EasonSYC/sesticket)
 [![LaTeX Templates](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=LaTeX-Templates)](https://github.com/EasonSYC/LaTeX-Templates)
 
 #### Mathematical Modelling
