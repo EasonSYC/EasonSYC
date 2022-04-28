@@ -28,11 +28,8 @@ My name is EasonSYC, and I'm currently a high school student. My hobby is scienc
 
 #### Mathematical Modelling
 
-[![IMMC 2022 GC Winter](https://github-readme-stats.vercel.app/api/pin/?username=stOOrz-Mathematical-Modelling-Group&repo=IMMC_2022_GC_Winter)](https://github.com/stOOrz-Mathematical-Modelling-Group/IMMC_2022_GC_Winter)
-[![IMMC 2022 GC Autumn](https://github-readme-stats.vercel.app/api/pin/?username=stOOrz-Mathematical-Modelling-Group&repo=IMMC_2022_GC_Autumn)](https://github.com/stOOrz-Mathematical-Modelling-Group/IMMC_2022_GC_Autumn)
-[![HiMCM 2021](https://github-readme-stats.vercel.app/api/pin/?username=stOOrz-Mathematical-Modelling-Group&repo=HiMCM_2021)](https://github.com/stOOrz-Mathematical-Modelling-Group/HiMCM_2021)
-
-
+[![IMMC 2022 GC Winter](https://github-readme-stats.vercel.app/api/pin/?username=stOOrz-Science-Mind&repo=IMMC_2022_GC_Winter)](https://github.com/stOOrz-Science-Mind/IMMC_2022_GC_Winter)
+[![IMMC 2022 GC Autumn](https://github-readme-stats.vercel.app/api/pin/?username=stOOrz-Science-Mind&repo=IMMC_2022_GC_Autumn)](https://github.com/stOOrz-Science-Mind/IMMC_2022_GC_Autumn)
 
 #### Studying at School
 
