@@ -19,6 +19,8 @@ My name is EasonSYC, and I'm currently a high school student. My hobby is scienc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonSYC&l)
 
+![Streak](https://streak-stats.demolab.com/?user=EasonSYC)
+
 ### 3. Some of my Projects
 
 [![personal-info-management](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=personal-info-management)](https://github.com/EasonSYC/personal-info-management)
