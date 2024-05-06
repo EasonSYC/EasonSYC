@@ -11,7 +11,7 @@ My name is EasonSYC, and I'm currently a high school student. My hobby is scienc
 - 💬 Ask me about Maths or basic programming stuff. I'll be online on an **irregular** basis.
 - 📫 How to reach me: My email is `eason.syc@icloud.com`.
 - 😄 Pronouns: He
-- ⚡ Fun fact: Maths is the art of giving different things the same.
+- ⚡ Fun fact: Maths is the art of giving the same name to different things.
 
 ### 2. My Github status
 
