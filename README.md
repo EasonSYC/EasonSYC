@@ -1,19 +1,19 @@
-## Hi there 👋
+## Hi There 👋
 
 ### 1. Some basic info.
 
-My name is EasonSYC, and I'm currently a high school student. My hobby is science, with **Maths** and **Physics** in particular. I like exchanging ideas and making friends with interesting people, so feel free to send me a message by email to `eason.syc@icloud.com`!
+My name is Eason Shao, and I'm currently a student at St Paul's School. My hobby is science, with **Maths** and **Physics** in particular. I like exchanging ideas and making friends with interesting people, so feel free to send me a message by email to `eason.syc@icloud.com`!
 
 - 🔭 I’m currently working on my school project and the website of my own.
-- 🌱 I’m currently learning C#, SQL and other languages, especially those linked to **OOP** and **Data Visuallisation**, and also Maths
+- 🌱 I’m currently learning C#, SQL and other languages, especially those linked to **OOP** and **Data Visuallisation**, and also Maths.
 - 👯 I’m looking to collaborate on **Making a Website of my Own**.
 - 🤔 I’m looking for help with **Data Processing**.
 - 💬 Ask me about Maths or basic programming stuff. I'll be online on an **irregular** basis.
 - 📫 How to reach me: My email is `eason.syc@icloud.com`.
-- 😄 Pronouns: He
+- 😄 Pronouns: He.
 - ⚡ Fun fact: Maths is the art of giving the same name to different things.
 
-### 2. My Github status
+### 2. My GitHub status
 
 ![EasonSYC's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonSYC&show_icons=true)
 
@@ -23,9 +23,9 @@ My name is EasonSYC, and I'm currently a high school student. My hobby is scienc
 
 ### 3. Some of my Projects
 
-[![personal-info-management](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=personal-info-management)](https://github.com/EasonSYC/personal-info-management)
-[![sesticket](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=sesticket)](https://github.com/EasonSYC/sesticket)
-[![Covid-19 Visuallization](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=covid-19-visuallization)](https://github.com/EasonSYC/covid-19-visuallization)
+[![covid-19-screening-register](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=covid-19-screening-register)](https://github.com/EasonSYC/covid-19-screening-register)
+[![ses-ticket](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=ses-ticket)](https://github.com/EasonSYC/ses-ticket)
+[![covid-19-Visuallization](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=covid-19-visuallization)](https://github.com/EasonSYC/covid-19-visuallization)
 [![LaTeX Templates](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=LaTeX-Templates)](https://github.com/EasonSYC/LaTeX-Templates)
 
 #### Mathematical Modelling
