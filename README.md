@@ -10,8 +10,8 @@ My name is Eason Shao, and I'm currently a student at St Paul's School. My hobby
 - 🤔 I’m looking for help with **Data Processing**.
 - 💬 Ask me about Maths or basic programming stuff. I'll be online on an **irregular** basis.
 - 📫 How to reach me: My email is `eason.syc@icloud.com`.
-- 😄 Pronouns: He.
-- ⚡ Fun fact: Maths is the art of giving the same name to different things.
+- 😄 Pronouns: He/Him/They/Them.
+- ⚡ Fun fact: Good mathematicians never take anything for granted.
 
 ### 2. My GitHub status
 
