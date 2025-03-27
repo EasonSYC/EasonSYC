@@ -15,11 +15,11 @@ My name is Eason Shao, and I'm currently a student at St Paul's School. My hobby
 
 ### 2. My GitHub status
 
-![EasonSYC's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonSYC&show_icons=true)
+[![EasonSYC's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonSYC&show_icons=true)](https://github.com/EasonSYC)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonSYC&l)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonSYC&layout=compact&langs_count=8)](https://github.com/EasonSYC)
 
-![Streak](https://streak-stats.demolab.com/?user=EasonSYC)
+[![Streak](https://streak-stats.demolab.com/?user=EasonSYC)](https://github.com/EasonSYC)
 
 ### 3. Some of my Projects
 
