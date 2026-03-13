@@ -29,15 +29,16 @@
 
 #### Past Projects (Mathematics)
 - A [**LaTeX Style** of my own](https://github.com/EasonSYC/latex-style).
-- Presentations on [**Calculus without Limits** (Non-Standard Analysis)](https://github.com/EasonSYC/calculus-without-limits) and [Physical Quantities and Units](https://github.com/EasonSYC/physical-quantities-and-units) back at high school.
+- Presentations on [**Calculus without Limits** (Non-Standard Analysis)](https://github.com/EasonSYC/calculus-without-limits) (Finalist in Toller Prize for Mathematical Presentations) and [Physical Quantities and Units](https://github.com/EasonSYC/physical-quantities-and-units) back at St Paul's School.
 - I have taken part in **Mathematical Modelling Competitions** back in Shanghai, and lead the team including [`@MathxStudio`](https://github.com/MathxStudio), [`@LyraaaXY`](https://github.com/LyraaaXY), and [`@xrh_0232b7ab`](https://github.com/xrh-0232b7ab). We **represented China Mainland in the [IMMC Competition](https://www.immchallenge.org)** in 2022.
   - The paper can be found [here](https://github.com/stOOrz-Science-Mind/IMMC_2022_GC_International).
   - A [presentation](https://github.com/stOOrz-Science-Mind/IMMC_2022_GC_International_Presentation) is also available.
   - Other highlights include [Smart Lamppost Deployment](https://github.com/stOOrz-Science-Mind/IMMC_2022_GC_Autumn) and [Modelling Metaverse](https://github.com/stOOrz-Science-Mind/IMMC_2022_GC_Winter).
   - A complete list of work can be found at [`@stOOrz-Science-Mind`](https://github.com/stOOrz-Science-Mind).
 - I lead the St Paul's School Team at [Princeton University Mathematical Challenge 2024, Power Round](https://jason-shi-f9dm.squarespace.com/archives#2024), coming top of all non-US teams. [Our submission](https://github.com/EasonSYC/pumac-2024) is available.
+- I am a co-founder of the Physics Problem-Solving Society at St Paul's School. Resources we used to prepare for the sessions are [available here](https://github.com/EasonSYC/physics-problem-solving).
 - A set of [Mock Interview Questions](https://github.com/EasonSYC/interview-questions).
-- I was the co-founder of the Physics Problem-Solving Society at St Paul's School. Resources we used to prepare for the sessions are [available here](https://github.com/EasonSYC/physics-problem-solving).
+- A set of [Revision Questions for Calculus](https://github.com/EasonSYC/calculus-revision-questions), in collaboration with Aidan Wong back at St Paul's School.
 
 ### Contacts
 - **Email**: [`ys734@cam.ac.uk`](mailto:ys734@cam.ac.uk), [`eason.syc@icloud.com`](mailto:eason.syc@icloud.com)
