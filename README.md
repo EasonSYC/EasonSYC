@@ -25,7 +25,7 @@
 
 #### Past Projects (Programming)
 - **Earthquake Warning Display System** was my A-Level Computer Science Coursework. The [Code Repository](https://github.com/EasonSYC/early-earthquake-and-tsunami-warning-viewer) and [Report](https://github.com/EasonSYC/a-level-computing-coursework) are available.
-- Collaboration project with [`@stroomboli`](https://github.com/strombooli) for a [**COVID-19 Screening Register**](https://github.com/EasonSYC/covid-19-screening-register), which was actually deployed and used in at least two neighbourhoods, used by at least 1000 people in the community in Shanghai.
+- Collaboration project with [`@stroomboli`](https://github.com/strombooli) for a [**COVID-19 Screening Register**](https://github.com/EasonSYC/covid-19-screening-register), which was actually deployed and used in at least two neighbourhoods, used by at least 100 people in the community in Shanghai.
 
 #### Past Projects (Mathematics)
 - A [**LaTeX Style** of my own](https://github.com/EasonSYC/latex-style).
