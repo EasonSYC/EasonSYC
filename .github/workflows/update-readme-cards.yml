@@ -29,7 +29,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=6&exclude_repo=covid-19-disease-map
+          options: username=${{ github.repository_owner }}&langs_count=6&exclude_repo=covid-19-disease-map,covid-19-visuallization
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
 
@@ -40,6 +40,13 @@ jobs:
     #       options: username=readme-tools&repo=github-readme-stats
     #       path: profile/pin-readme-tools-github-readme-stats.svg
     #       token: ${{ secrets.PAT }}
+
+      - name: Generate streak stats
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.PAT }}
+          output-path: profile/streak.svg
 
       - name: Commit cards
         run: |

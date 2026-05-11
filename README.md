@@ -53,4 +53,4 @@
 
 [![Top Langs](./profile/top-langs.svg)](https://github.com/EasonSYC)
 
-[![Streak](https://streak-stats.demolab.com/?user=EasonSYC)](https://github.com/EasonSYC)
+[![Streak](./profile/streak.svg)](https://github.com/EasonSYC)
