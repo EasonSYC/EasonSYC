@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README Cards
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
 
 jobs:
   build:
+    name: Update README Cards
     runs-on: ubuntu-latest
 
     permissions:
@@ -28,7 +29,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=6
+          options: username=${{ github.repository_owner }}&langs_count=6&exclude_repo=covid-19-disease-map
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
 
