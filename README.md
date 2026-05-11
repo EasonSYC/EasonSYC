@@ -49,8 +49,8 @@
 
 ### GitHub status
 
-[![EasonSYC's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonSYC&show_icons=true)](https://github.com/EasonSYC)
+[![EasonSYC's GitHub stats](./profile/stats.svg)](https://github.com/EasonSYC)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonSYC&langs_count=6)](https://github.com/EasonSYC)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/EasonSYC)
 
 [![Streak](https://streak-stats.demolab.com/?user=EasonSYC)](https://github.com/EasonSYC)
