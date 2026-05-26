@@ -42,7 +42,6 @@
 
 ### Contacts
 - **Email**: [`ys734@cam.ac.uk`](mailto:ys734@cam.ac.uk), [`eason.syc@icloud.com`](mailto:eason.syc@icloud.com)
-- **Cambridge Lookup Profile**: [Cambridge Lookup](https://lookup.cam.ac.uk/person/crsid/ys734)
 - **Website** (under development): [`easonshao.com`](https://easonshao.com) and [`yichengshao.com`](https://yichengshao.com)
 - **GitHub**: [`@EasonSYC`](https://github.com/EasonSYC/)
 - **LinkedIn**: [Yicheng Shao](https://www.linkedin.com/in/yicheng-shao/)
