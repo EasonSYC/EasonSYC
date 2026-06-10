@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Eason Shao's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 34, Total Commits  : 3101, Total PRs: 14, Total Issues: 36, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 34, Total Commits  : 3120, Total PRs: 14, Total Issues: 36, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 142.639453175253;
+        stroke-dashoffset: 142.57558022030435;
       }
     }
   
