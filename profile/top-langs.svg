@@ -130,11 +130,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">TeX</text>
-      <text x="215" y="34" class="lang-name">57.69%</text>
+      <text x="215" y="34" class="lang-name">57.79%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="57.69081862229958%">
+      <svg data-testid="lang-progress" width="57.79092502566432%">
         <rect
             height="8"
             fill="#3D6117"
@@ -149,11 +149,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Jupyter Notebook</text>
-      <text x="215" y="34" class="lang-name">32.98%</text>
+      <text x="215" y="34" class="lang-name">32.90%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="32.97746536386059%">
+      <svg data-testid="lang-progress" width="32.89943843584724%">
         <rect
             height="8"
             fill="#DA5B0B"
@@ -168,11 +168,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">C#</text>
-      <text x="215" y="34" class="lang-name">7.03%</text>
+      <text x="215" y="34" class="lang-name">7.01%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="7.028348473410246%">
+      <svg data-testid="lang-progress" width="7.011718922462755%">
         <rect
             height="8"
             fill="#7355dd"
