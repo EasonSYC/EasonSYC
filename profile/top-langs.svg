@@ -130,11 +130,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">TeX</text>
-      <text x="215" y="34" class="lang-name">58.99%</text>
+      <text x="215" y="34" class="lang-name">59.03%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="58.9855829466458%">
+      <svg data-testid="lang-progress" width="59.03118979170693%">
         <rect
             height="8"
             fill="#3D6117"
@@ -149,11 +149,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Jupyter Notebook</text>
-      <text x="215" y="34" class="lang-name">31.97%</text>
+      <text x="215" y="34" class="lang-name">31.93%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="31.96838706468007%">
+      <svg data-testid="lang-progress" width="31.932839143230485%">
         <rect
             height="8"
             fill="#DA5B0B"
@@ -172,7 +172,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="6.813287860190137%">
+      <svg data-testid="lang-progress" width="6.80571168122379%">
         <rect
             height="8"
             fill="#7355dd"
